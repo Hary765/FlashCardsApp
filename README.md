@@ -5,7 +5,7 @@
 ### App Description
 This is a FlashCards App made for the Android Studio course provided by CodePath. For the fourth lab, I added animations to most aspects of button clicking to make the app look more appealing.
 ### App Walk-though
-<img src="http://recordit.co/KPpzBUVawo" width=200><br>
+<img src="http://g.recordit.co/KPpzBUVawo.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
