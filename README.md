@@ -7,8 +7,6 @@ This is a FlashCards App made for the Android Studio course provided by CodePath
 ### App Walk-though
 <img src="http://www.giphy.com/gifs/aj6dzyR9D3IB0a4MSg" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
 - [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
